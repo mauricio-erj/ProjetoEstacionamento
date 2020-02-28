@@ -1,1 +1,1 @@
-Essa pasta deve conter detaçhes sobre os requisitos do software
+Essa pasta deve conter detalhes sobre os requisitos do software
